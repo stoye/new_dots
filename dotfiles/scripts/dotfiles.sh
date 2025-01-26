@@ -1,5 +1,5 @@
 # clone and setup dotfiles
-git clone --bare git@github.com:stoye/dotfiles $HOME/.my_dotfiles
+git clone --bare git@github.com:stoye/new_dots $HOME/.my_dotfiles
 
 function dotfiles {
     /usr/bin/git --git-dir=$HOME/.my_dotfiles/ --work-tree=$HOME $@
