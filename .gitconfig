@@ -1,0 +1,13 @@
+[user]
+	name = Steve Toye
+	email = steve.toye@gmail.com
+	signingkey = B5A43966A21F5381
+[core]
+	editor = emacsclient
+[commit]
+	template = /home/stoye/.gitmessage.txt
+	gpgsign = true
+[tag]
+	gpgSign = true
+[init]
+	defaultBranch = main
