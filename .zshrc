@@ -110,7 +110,7 @@ source $ZSH/oh-my-zsh.sh
 alias music="rmpc"
 alias fortune="fortune -e archer archlinux billwurtz asoiaf futurama | cowsay -Cr | lolcat"
 alias welcome="figlet -ct -f fraktur 'HI    $USER' | lolcat && fortune"
-alias emacs="emacsclient -nw"
+alias emacs="emacs -nw"
 alias dotfiles="/usr/bin/git --git-dir=$HOME/.my_dotfiles/ --work-tree=$HOME"
 
 # UV func for adding package to dep group and optional extra group
