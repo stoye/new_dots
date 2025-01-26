@@ -1,0 +1,6 @@
+Subject line (under 50 chars)
+
+Multi-line description of commit,
+feel free to be detailed.
+
+[Ticket/Issue: X]

@@ -1,0 +1,4 @@
+directory: ~/media/music
+library: ~/data/musiclibrary.db
+import:
+  move: yes
