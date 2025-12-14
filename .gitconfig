@@ -3,7 +3,7 @@
 	email = steve.toye@gmail.com
 	signingkey = B5A43966A21F5381
 [core]
-	editor = emacsclient
+	editor = nvim
 [commit]
 	template = /home/stoye/.gitmessage.txt
 	gpgsign = true
